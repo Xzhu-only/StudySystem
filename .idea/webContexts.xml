@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/index.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/page/admin/moduser.jsp" value="file://$PROJECT_DIR$/web/page/admin" />
+        <entry key="file://$PROJECT_DIR$/web/page/admin/showteacher.jsp" value="file://$PROJECT_DIR$/web/page/admin" />
+        <entry key="file://$PROJECT_DIR$/web/page/error.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/page/find.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/login.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/page/modify.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/page/register.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/page/teacher/courseManage.jsp" value="file://$PROJECT_DIR$/web/page/teacher" />
+        <entry key="file://$PROJECT_DIR$/web/page/teacher/teacherinfo.jsp" value="file://$PROJECT_DIR$/web/page/teacher" />
+        <entry key="file://$PROJECT_DIR$/web/page/videolist.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="mock:///index.jsp" value="file://$PROJECT_DIR$/web" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,57 @@
+@charset "utf-8";
+.video_css{
+    position:relative;
+    width: 250px;
+    color: black;
+    font-weight: bold;
+    font-weight:100;
+    margin-top:20px;
+    font-family:"微软雅黑";
+    line-height: 30px;
+    text-align: center;
+}
+.video_play{
+    width:70%;
+    height:60%;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.comment-input {
+    margin-top: 10px;
+    position: relative;
+    left: -185px;
+}
+
+.comment-input input {
+    width: 200px;
+    padding: 5px;
+}
+
+.comment-input button {
+    padding: 5px 10px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.video-container {
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.comment-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 整体居中 */
+    margin-top: 20px;
+}
+
+.comment-display {
+    background-color: #ffffff;
+    border: 1px solid #637ebb; /* 修改边框颜色为黑色 */
+    height:440px;
+    width:620px;
+    text-align:left;
+    overflow-y: auto;
+}
